@@ -1,13 +1,11 @@
-**Log on to codeastro.com for more projects!***
+Database Name: ebillsystem
 
-**Database Name: ebillsystem**
+Developed by Antariksh Kumar
 
-**Developed by Lakshmi Narayana**
-
-**Recommended PHP Version 5.6 or Newer**
+Recommended PHP Version 5.6 or Newer
 
 
-**Admin Login Details**
+Admin Login Details
 
 Email   : admin@gmail.com
 Password: Password@123
